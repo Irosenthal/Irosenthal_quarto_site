@@ -10,14 +10,10 @@ about:
       href: mailto:isaac.rosenthal001@umb.edu
 ---
 
-This is a Quarto website.
+This is my Quarto website. I will post things and host files here. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
 
 ------------------------------------------------------------------------
 
-more text, I made that line with 3 dashes like this: `---`
+Here is another section. Hopefully my contact links work. 

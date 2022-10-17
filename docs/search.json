@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "This is where I will talk about myself and post my CV"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Isaac Rosenthal",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nmore text, I made that line with 3 dashes like this: ---"
+    "text": "Here is another section. Hopefully my contact links work."
+  },
+  {
+    "objectID": "projects_and_publications.html",
+    "href": "projects_and_publications.html",
+    "title": "Projects and Publications",
+    "section": "",
+    "text": "Here is an interactive map that I am trying to embed on this page."
   }
 ]
