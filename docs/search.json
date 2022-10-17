@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "This is where I will talk about myself and post my CV"
+    "text": "Here’s a test to see if I can upload a pdf and hyperlink to it."
   },
   {
     "objectID": "index.html",
@@ -18,6 +18,6 @@
     "href": "projects_and_publications.html",
     "title": "Projects and Publications",
     "section": "",
-    "text": "Here is an interactive map that I am trying to embed on this page."
+    "text": "Here is an interactive map that I am trying to embed on this page. It mostly works, although some of the buttons (such as the seasonal selection) do not function.\nThis blurb will be about the importance of this type of data in the context of classrooms."
   }
 ]

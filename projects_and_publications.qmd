@@ -5,6 +5,8 @@ title: "Projects and Publications"
 Here is where I would post my publications
 ![Caption for the picture.](if_i_had_one.jpg)
 ---
-Here is an interactive map that I am trying to embed on this page. 
+Here is an interactive map that I am trying to embed on this page. It mostly works, although some of the buttons (such as the seasonal selection) do not function.
+
+This blurb will be about the importance of this type of data in the context of classrooms.
 <iframe src="https://irosenthal.github.io/falklands_course.html?fbclid=IwAR2sroycxPojte7xKbVdlwloo5RfOxeZNtv_iTTVvVAy09KaSH0W3sNMEes" title="falklands_kelp" width="960" height="500" data-external="1"></iframe>
 
