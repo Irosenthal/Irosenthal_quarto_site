@@ -12,8 +12,6 @@ about:
       href: mailto:isaac.rosenthal001@umb.edu
 ---
 
-![Website under construction](files/images/construction.jpg)
----
+![Website under construction, stay tuned for content!](files/images/construction.jpg)
 
 Hello and welcome! I am a PhD candidate in the [Byrnes lab](https://byrneslab.net/) at UMass Boston. Here you will find more about me, my research, and maybe the occasional side project! My inbox is always open and if anything you see catches your eye, drop me a line!
-

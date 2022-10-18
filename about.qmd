@@ -4,19 +4,55 @@ title: "About Me"
 
 It's hard to sum up my research interests with a catchy one liner, but the common thread is the importance of deep and authentic cross-disciplinary dialogues, both across scientific disciplines, as well as between scientists and non-scientists.
 
-I've spent most of my life sitting on the line between science and the public. Pre-academia, I was an educator and trail guide at the wonderful [Roaring Brook Nature Center](https://www.roaringbrook.org/), where I was able to get involved in wildlife conservation, education, and rehabilitation from a young age. 
+I've spent most of my life sitting on the line between science and the public. Pre-academia, I was an educator and trail guide at the wonderful [Roaring Brook Nature Center](https://www.roaringbrook.org/), where I was able to get involved in wildlife conservation, education, and rehabilitation from a young age. This was also the beginning of my obsession with macro photography, especially dragonflies. 
+  
+::: {layout-ncol=2}
 
-(some pics from RBNC)
+![Unicorn clubtail (*Arigomphus villosipes*), note the lil horn](files/images/rbnc/P7020153.jpg)
+
+![Silver-Bordered Fritillary (*Boloria selene)*](files/images/rbnc/silver_bordered_frit.jpg)
+
+![Millipede (*Narceus americanus*)](files/images/rbnc/P8200147.jpg)
+
+![Locust Borer (*Megacyllene robiniae*)](files/images/rbnc/P9020096.jpg)
 
 
-I carried this fascination with nature through my undergraduate education where I was able to participate in Northeastern University's [Three Seas program](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/). This was a life-changing experience, and the intense focus on SCUBA diving opened my eyes to the world beneath the waves.
+:::  
 
-(some pics from 3 seas)
+
+I carried this fascination with nature through my undergraduate education where I was able to participate in Northeastern University's [Three Seas program](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/). This was a life-changing experience, and the intense focus on SCUBA diving opened my eyes to the world beneath the waves. After Three Seas, I remained at the MSC and contributed to several projects investigating the impacts of the invasive red alga *Dasysiphonia japonica*.
+
+::: {layout-ncol=2}
+![Biodiversity in the Panamanian mangroves](files/images/NEU/mangrove.jpg)
+
+![Tailless Whip Scorpion (*Phrynus Gervaisii*)](files/images/NEU/IMG_2976.jpg)
+
+![Field observations of macroalgal cover in Nahant, MA](files/images/NEU/MSC_quad.jpg)
+
+![Growth experiments with a variety of algae species, including D. japonica](files/images/NEU/MSC_samples.jpg)
+
+:::
 
 Following Three Seas, I also had the opportunity to complete a co-op at Woods Hole Oceanographic Institution in the [Anderson Harmful Algal Bloom lab](https://www2.whoi.edu/site/andersonlab/) where I got some (to put it lightly) hands-on experience with the more technical side of research. My work at WHOI was mainly focused on the early detection of harmful algal blooms (HABS) in the Gulf of Maine via a network of instruments called [Environmental Sample Processors](ESPs).(https://northeasthab.whoi.edu/bloom-monitoring/environmental-sample-processor/). I assisted with the mission programming, maintainence, and deployment of these sensors and was able to see first-hand how modern data streams are transforming the way we learn about the world around us. 
 
-(pics from whoi)
+::: {layout-ncol=2}
+
+![An ESP laid bare](files/images/WHOI/esp_chris.jpg)
+
+![ESPs were deployed from R/V Tioga](files/images/WHOI/esp_deployment.jpg)
+
+
+:::
+
+![The joys putting electronics in the ocean](files/images/WHOI/pump.jpg)
+
+
 
 My current work at UMass Boston is mostly focused on the [Floating Forests](www.floatingforests.org) citizen science kelp mapping project, although I have found ways to include myself in a plethora of fieldwork and other projects as well. Throughout my contributions to this Floating Forests, I have had the opportunity to work with other ecologists, remote sensing specialists, education researchers, teachers, students, web designers, and machine learning experts - the list is very long, apologies if I left anyone out! Check out my [Projects and Publications](projects_and_publications.qmd) page for more details on Floating Forests, as well as some of the other things I have been involved with at UMass!
 
-(some pics from UMB)
+::: {layout-ncol=2}
+![Floating Forests at the UMB Student Symposium](files/images/UMB/poster.jpg)
+
+![Passing time during COVID as a virtual science camp counselor](files/images/UMB/acera.jpg)
+
+:::
