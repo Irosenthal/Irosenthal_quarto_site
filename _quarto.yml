@@ -2,22 +2,25 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "practice_quarto"
+website: 
+  title: "Isaac Rosenthal"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - projects_and_publications.qmd
+    right:
+      - text: "About Me"
+        href: about.qmd
+      - text: "Projects and Publications"
+        href: projects_and_publications.qmd
+      - text: "Resume"
+        href: Rosenthal_CV.pdf
+      - icon: github
+        href: https://github.com/Irosenthal/Irosenthal_quarto_site
 
 format:
   html:
-    theme:
-      light: sandstone
+    theme: 
+      light: minty
       dark: solar
     css: styles.css
     toc: true
 
 editor: visual
-
