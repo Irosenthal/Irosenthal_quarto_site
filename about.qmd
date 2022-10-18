@@ -6,17 +6,18 @@ It's hard to sum up my research interests with a catchy one liner, but the commo
 
 I've spent most of my life sitting on the line between science and the public. Pre-academia, I was an educator and trail guide at the wonderful [Roaring Brook Nature Center](https://www.roaringbrook.org/), where I was able to get involved in wildlife conservation, education, and rehabilitation from a young age. This was also the beginning of my obsession with macro photography, especially dragonflies. 
   
+::: {layout-ncol=2}
+
+![Unicorn clubtail (*Arigomphus villosipes*), note the lil horn](files/images/rbnc/P7020153.jpg){ width=50%}
+
+![Silver-Bordered Fritillary (*Boloria selene)*](files/images/rbnc/silver_bordered_frit.jpg){ width=50%}
+
+![Millipede (*Narceus americanus*)](files/images/rbnc/P8200147.JPG){ width=50%}
+
+![Locust Borer (*Megacyllene robiniae*)](files/images/rbnc/P9020096.JPG){ width=50%}
 
 
-![Unicorn clubtail (*Arigomphus villosipes*), note the lil horn](files/images/rbnc/P7020153.jpg)
-
-![Silver-Bordered Fritillary (*Boloria selene)*](files/images/rbnc/silver_bordered_frit.jpg)
-
-![Millipede (*Narceus americanus*)](files/images/rbnc/P8200147.JPG)
-
-![Locust Borer (*Megacyllene robiniae*)](files/images/rbnc/P9020096.JPG)
-
-
+:::  
 
 
 I carried this fascination with nature through my undergraduate education where I was able to participate in Northeastern University's [Three Seas program](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/). This was a life-changing experience, and the intense focus on SCUBA diving opened my eyes to the world beneath the waves. After Three Seas, I remained at the MSC and contributed to several projects investigating the impacts of the invasive red alga *Dasysiphonia japonica*.
