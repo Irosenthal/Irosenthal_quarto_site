@@ -16,36 +16,36 @@ I've spent most of my life sitting on the line between science and the public. P
 
 ![Locust Borer (*Megacyllene robiniae*)](files/images/rbnc/P9020096.JPG){ width=50%}
 
-
 :::  
-
+---
 
 I carried this fascination with nature through my undergraduate education where I was able to participate in Northeastern University's [Three Seas program](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/). This was a life-changing experience, and the intense focus on SCUBA diving opened my eyes to the world beneath the waves. After Three Seas, I remained at the MSC and contributed to several projects investigating the impacts of the invasive red alga *Dasysiphonia japonica*.
 
 ::: {layout-ncol=2}
-![Biodiversity in the Panamanian mangroves](files/images/NEU/mangrove.jpg)
+![Biodiversity in the Panamanian mangroves](files/images/NEU/mangrove.jpg){ width=50%}
 
-![Tailless Whip Scorpion (*Phrynus Gervaisii*)](files/images/NEU/IMG_2976.jpg)
+![Tailless Whip Scorpion (*Phrynus Gervaisii*)](files/images/NEU/IMG_2976.jpg){ width=50%}
 
-![Field observations of macroalgal cover in Nahant, MA](files/images/NEU/MSC_quad.jpg)
+![Field observations of macroalgal cover in Nahant, MA](files/images/NEU/MSC_quad.jpg){ width=50%}
 
-![Growth experiments with a variety of algae species, including D. japonica](files/images/NEU/MSC_samples.jpg)
+![Growth experiments with a variety of algae species, including D. japonica](files/images/NEU/MSC_samples.jpg){ width=50%}
 
 :::
+---
 
-Following Three Seas, I also had the opportunity to complete a co-op at Woods Hole Oceanographic Institution in the [Anderson Harmful Algal Bloom lab](https://www2.whoi.edu/site/andersonlab/) where I got some (to put it lightly) hands-on experience with the more technical side of research. My work at WHOI was mainly focused on the early detection of harmful algal blooms (HABS) in the Gulf of Maine via a network of instruments called [Environmental Sample Processors](ESPs).(https://northeasthab.whoi.edu/bloom-monitoring/environmental-sample-processor/). I assisted with the mission programming, maintainence, and deployment of these sensors and was able to see first-hand how modern data streams are transforming the way we learn about the world around us. 
+Following Three Seas, I also had the opportunity to complete a co-op at Woods Hole Oceanographic Institution in the [Anderson Harmful Algal Bloom lab](https://www2.whoi.edu/site/andersonlab/) where I got some (to put it lightly) hands-on experience with the more technical side of research. My work at WHOI was mainly focused on the early detection of harmful algal blooms (HABS) in the Gulf of Maine via a network of instruments called [Environmental Sample Processors (ESPs)](https://northeasthab.whoi.edu/bloom-monitoring/environmental-sample-processor/). I assisted with the mission programming, maintainence, and deployment of these sensors and was able to see first-hand how modern data streams are transforming the way we learn about the world around us. 
 
 ::: {layout-ncol=2}
 
-![An ESP laid bare](files/images/WHOI/esp_chris.jpg)
+![An ESP laid bare](files/images/WHOI/esp_chris.jpg){ width=50%}
 
-![ESPs were deployed from R/V Tioga](files/images/WHOI/esp_deployment.jpg)
+![ESPs were deployed from R/V Tioga](files/images/WHOI/esp_deployment.jpg){ width=50%}
 
 
 :::
 
-![The joys putting electronics in the ocean](files/images/WHOI/pump.jpg)
-
+![The joys of putting electronics in the ocean](files/images/WHOI/pump.jpg)
+---
 
 
 My current work at UMass Boston is mostly focused on the [Floating Forests](www.floatingforests.org) citizen science kelp mapping project, although I have found ways to include myself in a plethora of fieldwork and other projects as well. Throughout my contributions to this Floating Forests, I have had the opportunity to work with other ecologists, remote sensing specialists, education researchers, teachers, students, web designers, and machine learning experts - the list is very long, apologies if I left anyone out! Check out my [Projects and Publications](projects_and_publications.qmd) page for more details on Floating Forests, as well as some of the other things I have been involved with at UMass!
