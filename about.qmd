@@ -22,13 +22,13 @@ I've spent most of my life sitting on the line between science and the public. P
 I carried this fascination with nature through my undergraduate education where I was able to participate in Northeastern University's [Three Seas program](https://cos.northeastern.edu/marine-environmental-sciences/three-seas/). This was a life-changing experience, and the intense focus on SCUBA diving opened my eyes to the world beneath the waves. After Three Seas, I remained at the MSC and contributed to several projects investigating the impacts of the invasive red alga *Dasysiphonia japonica*.
 
 ::: {layout-ncol=2}
-![Biodiversity in the Panamanian mangroves](files/images/NEU/mangrove.jpg){ width=50%}
+![Biodiversity in the Panamanian mangroves](files/images/NEU/mangrove.jpg){ width=10%}
 
-![Tailless Whip Scorpion (*Phrynus Gervaisii*)](files/images/NEU/IMG_2976.jpg){ width=50%}
+![Tailless Whip Scorpion (*Phrynus Gervaisii*)](files/images/NEU/IMG_2976.jpg){ width=10%}
 
-![Field observations of macroalgal cover in Nahant, MA](files/images/NEU/MSC_quad.jpg){ width=50%}
+![Field observations of macroalgal cover in Nahant, MA](files/images/NEU/MSC_quad.jpg){ width=10%}
 
-![Growth experiments with a variety of algae species, including D. japonica](files/images/NEU/MSC_samples.jpg){ width=50%}
+![Growth experiments with a variety of algae species, including D. japonica](files/images/NEU/MSC_samples.jpg){ width=10%}
 
 :::
 ---
