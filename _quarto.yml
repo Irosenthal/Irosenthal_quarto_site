@@ -11,7 +11,7 @@ website:
       - text: "Projects and Publications"
         href: projects_and_publications.qmd
       - text: "Resume"
-        href: Rosenthal_CV.pdf
+        href: files/documents/Rosenthal_CV.pdf
       - icon: github
         href: https://github.com/Irosenthal/Irosenthal_quarto_site
 

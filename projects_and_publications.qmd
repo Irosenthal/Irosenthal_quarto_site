@@ -4,7 +4,7 @@ title: "Projects and Publications"
 
 
 Here is where I would post my publications
-![Caption for the picture.](if_i_had_one.jpg)
+![Caption for the picture.](files/images/if_i_had_one.jpg)
 
 ---
 
