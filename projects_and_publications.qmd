@@ -2,12 +2,18 @@
 title: "Projects and Publications"
 ---
 
+Here you will find a collection of projects that I have been involved in. I've included links to some publications, but my CV will have more details.
+---
 
-Here is where I would post my publications
-![Caption for the picture.](files/images/if_i_had_one.jpg)
+
+## Floating Forests
+
+I've been involved in many aspects of the [Floating Forests](https://www.zooniverse.org/projects/zooniverse/floating-forests) project. One of my first contributions was my work on validation of the citizen science data. We compared classifications from citizen scientists to those from experts in order to determine how accurate and precise this dataset is. We showed that untrained volunteers are able to produce data that is quite comparable to expert! This [preprint](https://arxiv.org/abs/1801.08522) has more information.
 
 ---
 
 Here is an interactive map that I am trying to embed on this page. It mostly works, although some of the buttons (such as the seasonal selection) do not function.
 
 This blurb will be about the importance of this type of data in the context of classrooms. <iframe src="https://irosenthal.github.io/falklands_course.html?fbclid=IwAR2sroycxPojte7xKbVdlwloo5RfOxeZNtv_iTTVvVAy09KaSH0W3sNMEes" title="falklands_kelp" width="960" height="500" data-external="1"></iframe>
+
+
